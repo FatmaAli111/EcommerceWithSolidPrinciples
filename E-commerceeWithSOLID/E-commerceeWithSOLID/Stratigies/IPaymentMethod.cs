@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ECommerceApp
+namespace ECommerceApp.Strategies
 {
-    internal class Program
+    internal interface IPaymentMethod
     {
-        static void Main(string[] args)
-        {
-        }
+        void pay(decimal Amount);
     }
 }

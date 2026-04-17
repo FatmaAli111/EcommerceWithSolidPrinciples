@@ -1,0 +1,5 @@
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\obj\Debug\net9.0\E-commerceeWithSOLID.GeneratedMSBuildEditorConfig.editorconfig
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\obj\Debug\net9.0\E-commerceeWithSOLID.AssemblyInfoInputs.cache
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\obj\Debug\net9.0\E-commerceeWithSOLID.AssemblyInfo.cs
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\obj\Debug\net9.0\E-commerceeWithSOLID.csproj.CoreCompileInputs.cache
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\obj\Debug\net9.0\E-commerceeWithSOLID.sourcelink.json
