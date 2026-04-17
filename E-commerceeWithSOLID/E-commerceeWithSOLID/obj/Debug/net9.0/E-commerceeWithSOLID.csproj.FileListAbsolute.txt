@@ -3,3 +3,13 @@ F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\obj\De
 F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\obj\Debug\net9.0\E-commerceeWithSOLID.AssemblyInfo.cs
 F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\obj\Debug\net9.0\E-commerceeWithSOLID.csproj.CoreCompileInputs.cache
 F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\obj\Debug\net9.0\E-commerceeWithSOLID.sourcelink.json
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\bin\Debug\net9.0\E-commerceeWithSOLID.exe
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\bin\Debug\net9.0\E-commerceeWithSOLID.deps.json
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\bin\Debug\net9.0\E-commerceeWithSOLID.runtimeconfig.json
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\bin\Debug\net9.0\E-commerceeWithSOLID.dll
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\bin\Debug\net9.0\E-commerceeWithSOLID.pdb
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\obj\Debug\net9.0\E-commerceeWithSOLID.dll
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\obj\Debug\net9.0\refint\E-commerceeWithSOLID.dll
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\obj\Debug\net9.0\E-commerceeWithSOLID.pdb
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\obj\Debug\net9.0\E-commerceeWithSOLID.genruntimeconfig.cache
+F:\EcommerceWithSolidPrinciples\E-commerceeWithSOLID\E-commerceeWithSOLID\obj\Debug\net9.0\ref\E-commerceeWithSOLID.dll

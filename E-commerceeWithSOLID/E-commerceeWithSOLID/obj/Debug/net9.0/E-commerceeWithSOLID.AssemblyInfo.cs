@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("E-commerceeWithSOLID")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fbaa4553e62a18bcadda0e8072f8cce23f035fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42278b82a573d2de07ed6ac358faf67e4e7d44d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("E-commerceeWithSOLID")]
 [assembly: System.Reflection.AssemblyTitleAttribute("E-commerceeWithSOLID")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
